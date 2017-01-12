@@ -1,7 +1,4 @@
-#   David Prater
-#   Homework 2
-#   9/7/2015
-#	Simple text based dungeon game with user input
+# Author: David Prater
 
 currentRoom = "kitchen"
 alive = "true"
